@@ -1,0 +1,9 @@
+Glycan composition,Glycosite,Glycan class,Lead variant chr17:63470201:G:A colocBoost standardized beta [95% CI],Lead variant chr17:63470201:G:A colocBoost P value
+HexNAc(2)Hex(5),N111,High-mannose,"-0.220 [-0.323, -0.113]",6.21e-05
+HexNAc(6)Hex(4)Fuc(1)NeuAc(1),N111,Hybrid/Complex,"0.197 [0.088, 0.301]",0.000378
+HexNAc(2)Hex(5),N714,High-mannose,"-0.146 [-0.253, -0.037]",0.00871
+HexNAc(2)Hex(6),N714,High-mannose,"-0.298 [-0.395, -0.194]",3.3e-08
+HexNAc(2)Hex(7),N714,High-mannose,"-0.386 [-0.476, -0.288]",1.21e-13
+HexNAc(2)Hex(9),N509,High-mannose,"-0.362 [-0.454, -0.262]",6.19e-12
+HexNAc(2)Hex(5),N695,High-mannose,"-0.259 [-0.359, -0.153]",2.11e-06
+HexNAc(4)Hex(4)Fuc(1),N695,Hybrid/Complex,"-0.326 [-0.421, -0.223]",1.06e-09

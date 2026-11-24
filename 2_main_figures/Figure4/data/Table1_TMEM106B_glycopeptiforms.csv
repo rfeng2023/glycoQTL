@@ -1,0 +1,4 @@
+Glycan composition,Glycosite,Glycan class,In AD colocalization signal,"S185/T185 ratio in C/G donors, geometric mean [95% CI]",Donors with both forms (n),Lead variant chr7:12229042:A:C TensorQTL beta [95% CI],Lead variant chr7:12229042:A:C TensorQTL P value,T185S rs3173615 (chr7:12229791:C:G) TensorQTL beta [95% CI],T185S rs3173615 (chr7:12229791:C:G) TensorQTL P value
+HexNAc(2)Hex(5),N183,High-mannose,Yes,"0.90 [0.83, 0.97]",90,"-0.221 [-0.318, -0.125]",8.78e-06,"-0.223 [-0.319, -0.127]",7.78e-06
+HexNAc(2)Hex(6),N183,High-mannose,Yes,"0.63 [0.58, 0.69]",123,"-0.441 [-0.544, -0.338]",2.37e-15,"-0.444 [-0.547, -0.341]",1.76e-15
+HexNAc(2)Hex(7),N183,High-mannose,No,"0.85 [0.79, 0.91]",41,"-0.103 [-0.174, -0.031]",0.00504,"-0.102 [-0.174, -0.031]",0.00529

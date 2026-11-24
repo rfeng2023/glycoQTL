@@ -1,0 +1,4 @@
+Glycan composition,Glycosite,Glycan class,In AD colocalization signal,"S185/T185 ratio in C/G donors, geometric mean [95% CI]",Donors with both forms (n),Lead variant chr7:12229042:A:C colocBoost standardized beta [95% CI],Lead variant chr7:12229042:A:C colocBoost P value,T185S rs3173615 (chr7:12229791:C:G) colocBoost standardized beta [95% CI],T185S rs3173615 (chr7:12229791:C:G) colocBoost P value
+HexNAc(2)Hex(5),N183,High-mannose,Yes,"0.90 [0.83, 0.97]",90,"-0.269 [-0.368, -0.163]",7.61e-07,"-0.270 [-0.370, -0.165]",6.53e-07
+HexNAc(2)Hex(6),N183,High-mannose,Yes,"0.63 [0.58, 0.69]",123,"-0.460 [-0.543, -0.369]",4.06e-20,"-0.462 [-0.545, -0.371]",2.58e-20
+HexNAc(2)Hex(7),N183,High-mannose,No,"0.85 [0.79, 0.91]",41,"-0.171 [-0.277, -0.062]",0.00204,"-0.171 [-0.276, -0.061]",0.00216

@@ -1,0 +1,9 @@
+Glycan composition,Glycosite,Glycan class,Lead variant chr17:63470201:G:A TensorQTL beta [95% CI],Lead variant chr17:63470201:G:A TensorQTL P value
+HexNAc(2)Hex(5),N111,High-mannose,"-0.146 [-0.224, -0.068]",0.000291
+HexNAc(6)Hex(4)Fuc(1)NeuAc(1),N111,Hybrid/Complex,"0.244 [0.096, 0.391]",0.00126
+HexNAc(2)Hex(5),N714,High-mannose,"-0.122 [-0.222, -0.022]",0.0168
+HexNAc(2)Hex(6),N714,High-mannose,"-0.151 [-0.209, -0.092]",7.65e-07
+HexNAc(2)Hex(7),N714,High-mannose,"-0.185 [-0.238, -0.131]",6.99e-11
+HexNAc(2)Hex(9),N509,High-mannose,"-0.173 [-0.227, -0.119]",1.21e-09
+HexNAc(2)Hex(5),N695,High-mannose,"-0.122 [-0.178, -0.067]",1.96e-05
+HexNAc(4)Hex(4)Fuc(1),N695,Hybrid/Complex,"-0.202 [-0.273, -0.131]",5.55e-08
